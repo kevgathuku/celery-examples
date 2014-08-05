@@ -1,0 +1,15 @@
+2014-08-05 19:21:49,825 CRIT Can't drop privilege as nonroot user
+2014-08-05 19:21:49,826 WARN Included extra file "/home/dee_ene_gee/dev/celeryd.conf" during parsing
+2014-08-05 19:21:49,838 INFO RPC interface 'supervisor' initialized
+2014-08-05 19:21:49,838 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2014-08-05 19:21:49,839 INFO daemonizing the supervisord process
+2014-08-05 19:21:49,839 CRIT could not write pidfile /var/run/supervisord.pid
+2014-08-05 19:21:50,842 INFO spawned: 'celery' with pid 9717
+2014-08-05 19:21:50,847 INFO exited: celery (exit status 127; not expected)
+2014-08-05 19:21:51,850 INFO spawned: 'celery' with pid 9718
+2014-08-05 19:21:51,855 INFO exited: celery (exit status 127; not expected)
+2014-08-05 19:21:53,859 INFO spawned: 'celery' with pid 9722
+2014-08-05 19:21:53,863 INFO exited: celery (exit status 127; not expected)
+2014-08-05 19:21:56,868 INFO spawned: 'celery' with pid 9723
+2014-08-05 19:21:56,874 INFO exited: celery (exit status 127; not expected)
+2014-08-05 19:21:57,876 INFO gave up: celery entered FATAL state, too many start retries too quickly
